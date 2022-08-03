@@ -1,0 +1,1 @@
+"{'loss': 0.65, 'auc': 0.84, 'accuracy': 0.0, 'binary_accuracy': 0.8, 'precision': 0.51, 'recall': 0.69, 'true_negatives': 6514.0, 'true_positives': 1436.0, 'false_negatives': 638.0, 'false_positives': 1390.0}"
